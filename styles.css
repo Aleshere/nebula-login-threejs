@@ -23,7 +23,6 @@ body {
     box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
   }
   .logo {
-    background-image: url("Logo.png");
     width:100px;
     height:100px;
     border-radius: 50%;
